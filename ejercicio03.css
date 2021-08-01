@@ -1,0 +1,44 @@
+.contenedor
+      {
+       border: 2.5px solid black;
+       background-color: white;
+       height: 200px;
+       width: 1200px; 
+       display: flex;
+       flex-wrap: wrap;
+       flex-direction: row;    
+       justify-content: space-between;
+      }
+.item1
+      {
+       background-color: red;
+       width: 200px;
+       height: 200px;
+       margin: 0px;
+       line-height: 200px;
+       text-align: center;
+       font-size: 25px;
+       color: white;
+      }
+.item2 
+      {
+       background-color: blue;
+       width: 200px;
+       height: 200px;
+       margin: 0px;
+       line-height: 200px;
+       text-align: center;
+       font-size: 25px;
+       color: white;
+      }
+.item3
+      {
+       background-color: green;
+       width: 200px;
+       height: 200px;
+       margin: 0px;
+       line-height: 200px;
+       text-align: center;
+       font-size: 25px;
+       color: white;
+      }
